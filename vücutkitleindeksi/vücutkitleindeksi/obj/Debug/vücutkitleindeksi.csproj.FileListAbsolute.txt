@@ -1,0 +1,11 @@
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\vücutkitleindeksi\vücutkitleindeksi\bin\Debug\vücutkitleindeksi.exe.config
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\vücutkitleindeksi\vücutkitleindeksi\bin\Debug\vücutkitleindeksi.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\vücutkitleindeksi\vücutkitleindeksi\bin\Debug\vücutkitleindeksi.pdb
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\vücutkitleindeksi\vücutkitleindeksi\obj\Debug\vücutkitleindeksi.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\vücutkitleindeksi\vücutkitleindeksi\obj\Debug\vücutkitleindeksi.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\vücutkitleindeksi\vücutkitleindeksi\obj\Debug\vücutkitleindeksi.Form1.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\vücutkitleindeksi\vücutkitleindeksi\obj\Debug\vücutkitleindeksi.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\vücutkitleindeksi\vücutkitleindeksi\obj\Debug\vücutkitleindeksi.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\vücutkitleindeksi\vücutkitleindeksi\obj\Debug\vücutkitleindeksi.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\vücutkitleindeksi\vücutkitleindeksi\obj\Debug\vücutkitleindeksi.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\Nesne Tabanlı Programlama\vücutkitleindeksi\vücutkitleindeksi\obj\Debug\vücutkitleindeksi.pdb
